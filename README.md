@@ -1,6 +1,6 @@
 ## DSH: a new transferable deep learning approach for crop mapping
 ## Introduction
-This is a PyTorch implementation of the research: [DSH: a new transferable deep learning approach for crop mapping](https://github.com/happay-ending/graphsformerCPI)
+This is a PyTorch implementation of the research: [DSH: a new transferable deep learning approach for crop mapping](https://github.com/Maria-hyChe/DSH)
 
 This repository contains a brief description of the paper, source code, data and program run instructions.
 
